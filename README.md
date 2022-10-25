@@ -25,7 +25,7 @@
     <td valign="middle">
 		<div align="center">
 			<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm OtterJ</h1>
-			<h4 align="center">a freelance web developer<br>and also a computer engineering students<br>at Ho Chi Minh University of Technology,<br>see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+			<h4 align="center">A freelance web developer<br>and also a computer engineering students<br>at Ho Chi Minh University of Technology,<br>see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 		</div>
 	</td>
   </tr>
@@ -33,7 +33,7 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>

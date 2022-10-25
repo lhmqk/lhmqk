@@ -1,17 +1,7 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm OtterJ</h1>
-<h4 align="center">a freelance web developer an also a computer engineering students at Ho Chi Minh University of Technology, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
-
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-
-<div align="center">
+<table>
+  <tr>
+    <td valign="middle">
+	    <div>
 
 ```js
 ⡿⠋⠄⣀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣌⠻⣿⣿
@@ -31,6 +21,15 @@
 ⣿⣿⣷⡈⢷⡀⠙⠛⠻⠿⠿⠿⠿⠿⠷⠾⠿⠟⣛⣋⣥⣶⣄⠄⢀⣄⠹⣦⢹⣿
 ```
 </div>
+	</td>
+    <td valign="middle">
+		<div align="center">
+			<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm OtterJ</h1>
+			<h4 align="center">a freelance web developer<br>and also a computer engineering students at Ho Chi Minh University of Technology,<br>see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+		</div>
+	</td>
+  </tr>
+</table>
 
 -----
 <details>

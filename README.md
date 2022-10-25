@@ -4,7 +4,11 @@
 </div>
 
 <div align="center">
-    <img src="README.svg" width="400" height="400" alt="css-in-readme">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
 
 <div align="center">
